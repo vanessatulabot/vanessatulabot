@@ -23,4 +23,3 @@
   </p>
 </div>
 
-![Snake animation](https://github.com/vanessatulabot/vanessatulabot/blob/output/github-contribution-grid-snake.svg)
