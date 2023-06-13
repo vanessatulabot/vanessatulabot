@@ -7,7 +7,7 @@
   🌱 Currently learning C# & Microsoft SQL Server & MVC <br/>
   💀 Still Learning <br/> <br/>
 
-  <img src="https://media.tenor.com/2a4KThsm4YgAAAAj/gaming-game-on.gif" alt="CONNECTING..."/>
+  <img src="https://media.tenor.com/2a4KThsm4YgAAAAj/gaming-game-on.gif" alt="LOADING..."/>
   
   <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
   <p>
