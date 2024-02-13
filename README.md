@@ -2,10 +2,8 @@
   <h3>Hi 👋</h3>
 <br/>
   
-  ⚡ Computer Engineering Technology Student <br/>
-  🔭 Currently training at JaeHub Web Services <br/>
-  🌱 Currently learning C# & Microsoft SQL Server & MVC <br/>
-  💀 Still Learning <br/> <br/>
+  ⚡ Computer Engineering Technology Graduate <br/>
+  🌱 Still Learning <br/> <br/>
 
   <img src="https://media.tenor.com/2a4KThsm4YgAAAAj/gaming-game-on.gif" alt="LOADING..."/>
   
